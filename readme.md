@@ -3,7 +3,7 @@ By Bitcoin for 1000 SEK per month and hold it for 18 years. Start a 5 year payou
 
 
 ## Transaction Dataset
-Id;Date;Investment;Saldo;BTC
+Id; Date; Buy; Saldo; BTC
 
 ## Certificate (current)
 21 Shares Bitcoin Core ETP
