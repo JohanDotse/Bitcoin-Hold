@@ -8,7 +8,6 @@ Id; Date; Buy; Saldo; BTC
 21 Shares Bitcoin Core ETP
 
 ## Fees and taxes
-+
 + Courtage (transaction) 0.95%
 + Exchangerate (transaction): 0.10%
 + Income Tax (yearly): 0.92%
