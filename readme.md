@@ -4,10 +4,10 @@ Buy Bitcoin for approximately 1100 SEK (100 USD) per month and hold it until the
 ## Transaction Dataset
 Id, Date, Buy, Saldo, Change, BTC
 
-## Certificate (current)
-21 Shares Bitcoin Core ETP
+## Certificate
+21 Shares Bitcoin Core ETP (current)
 
-## Saving account
+## Saving Account Type
 Swedish Endowment Insurance (KF).
 
 ## Fees and taxes
