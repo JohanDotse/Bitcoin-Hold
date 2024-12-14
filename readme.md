@@ -1,5 +1,5 @@
 # Bitcoin Hold
-Buy Bitcoin for approximately 1100 SEK (100 USD) per month and hold it until the year 2038. Then cash out and go on a 130 days World Cruise Ship. Or maybe several trips if the price skyrocket.
+Buy Bitcoin for approximately 1100 SEK (100 USD) per month and hold it until the year 2038. Then cash out and go on a 130 days World Cruise Ship. Or maybe several trips if the price skyrocket along the way.
 
 ## Project sart day
 1 January 2025
