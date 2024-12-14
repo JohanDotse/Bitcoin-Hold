@@ -1,7 +1,7 @@
 # Bitcoin Hold
 Buy Bitcoin for approximately 1100 SEK (100 USD) per month and hold it until the year 2043. Then start paying out monthly as a pension fund.
 
-## Project sart day
+## Project Sart Date
 1 January 2025
 
 ## Transaction Dataset
