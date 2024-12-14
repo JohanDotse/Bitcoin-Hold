@@ -2,7 +2,7 @@
 Buy Bitcoin for approximately 1100 SEK (100 USD) per month and hold it until the year 2043. Then start paying out monthly as a pension fund.
 
 ## Project Length
-Ends in 18 years qnd 0 months. Started i in January 2025.
+Ends in 18 years and 0 months. Started in January 2025.
 
 ## Transaction Dataset
 Id, Date, Buy, Saldo, Change, BTC
