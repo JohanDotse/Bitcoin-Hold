@@ -1,5 +1,8 @@
 # Bitcoin Hold
-Buy Bitcoin for approximately 1100 SEK (100 USD) per month and hold it until the year 2043. Then, start a five-year-long monthly tax free payout, resulting in a total of 60 payouts.
+Buy Bitcoin for approximately 1100 SEK (100 USD) per month and hold it until the year 2038. Then cash out and go on a 130 days World Cruise Ship. Or maybe several trips if the price skyrocket.
+
+## Project sart day
+1 January 2025
 
 ## Transaction Dataset
 Id, Date, Buy, Saldo, Change, BTC
