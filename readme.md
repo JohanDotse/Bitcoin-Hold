@@ -1,8 +1,9 @@
 # Bitcoin Hold
 Buy Bitcoin for approximately 1100 SEK (100 USD) per month and hold it until the year 2043. Then start paying out monthly as a pension fund.
 
-## Project Sart Date
-1 January 2025
+## Project Data
+End in: 18 years 0 months
+Start: January 2025
 
 ## Transaction Dataset
 Id, Date, Buy, Saldo, Change, BTC
@@ -11,7 +12,7 @@ Id, Date, Buy, Saldo, Change, BTC
 21 Shares Bitcoin Core ETP (current)
 
 ## Saving Account Type
-Swedish Endowment Insurance (KF).
+Swedish Endowment Insurance (KF) and tax law.
 
 ## Fees and taxes
 + Courtage (transaction) 0.95%
